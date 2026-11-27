@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://D:/apache-tomcat-9.0.93/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-9.0.93/lib/servlet-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-9.0.93/lib/jsp-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-9.0.93/lib/jaspic-api.jar!/" />
+      <root url="file://D:/apache-tomcat-9.0.93/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/apache-tomcat-9.0.93/lib" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebNan:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebNan_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebNan/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebNan" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
